@@ -1,0 +1,20 @@
+.p-carousel-items-content { 
+  max-width: 1500px; 
+}
+ 
+.p-carousel .p-carousel-prev,
+.p-carousel .p-carousel-next {
+  margin: 50px;
+  margin-left: 0;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+ 
+.p-carousel .p-carousel-prev:hover,
+.p-carousel .p-carousel-next:hover {
+  background-color: #555;
+}
